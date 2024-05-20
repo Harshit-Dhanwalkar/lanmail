@@ -1,4 +1,4 @@
-# File Transfer and Chat Application
+# File Transfer and Chat Application via LAN
 
 This project is a simple file transfer and chat application implemented in C using sockets and threads. The application allows a client to send a text file to a server upon agreement, and also supports simultaneous chat between the client and server.
 
