@@ -1,0 +1,4 @@
+POSIX-compliant OS (Linux, macOS)
+GCC compiler
+pthread library
+
