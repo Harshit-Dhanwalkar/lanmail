@@ -12,12 +12,4 @@ This project is a simple file transfer and chat application implemented in C usi
 
 - GCC compiler
 - POSIX-compliant operating system (e.g., Linux, macOS)
-
-## Getting Started
-
-### 1. Clone the Repository
-
-```sh
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
-```
+- pthread library
